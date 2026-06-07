@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 2999,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1679513691474-73102089c117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8aGVhZHBob25lcyUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkyOTg0fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Experience premium sound quality with these advanced wireless noise-cancelling headphones. Designed with plush earcups and an adjustable headband, they provide ultimate comfort for long listening sessions. Seamless Bluetooth connectivity and a long-lasting battery life ensure uninterrupted entertainment throughout the day."
+  },
+  {
+    "id": 2,
+    "title": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1499,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1729265794966-91ecc8eb23f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ymx1ZXRvb3RoJTIwc3BlYWtlciUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMDc2fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Bring your music to life with this powerful and compact portable Bluetooth speaker. Featuring rich bass and crystal-clear high frequencies, it delivers an immersive audio experience anywhere. Its rugged, water-resistant design makes it perfect for outdoor adventures, parties, or home use."
+  },
+  {
+    "id": 3,
+    "title": "Smart Watch",
+    "category": "Electronics",
+    "price": 4999,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8c21hcnR3YXRjaCUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMDc3fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Stay connected and track your fitness goals with this stylish, multi-functional smart watch. Monitor your heart rate, sleep patterns, steps, and receive real-time notifications right on your wrist. Equipped with a sleek touch display and a durable battery, it is the perfect daily companion."
+  },
+  {
+    "id": 4,
+    "title": "USB-C Fast Charger",
+    "category": "Electronics",
+    "price": 599,
+    "rating": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1725867721975-bea9a26a20f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dXNiJTIwY2hhcmdlciUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMDc5fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Power up your devices in no time with this high-efficiency USB-C fast charger. Featuring advanced power delivery technology, it provides safe and rapid charging for smartphones, tablets, and laptops. Compact and lightweight, it is perfect for travel, office, or home use."
+  },
+  {
+    "id": 5,
+    "title": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 3499,
+    "rating": 4.6,
+    "image": "https://plus.unsplash.com/premium_photo-1664194583917-b0ba07c4ce2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bWVjaGFuaWNhbCUyMGtleWJvYXJkJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMwODB8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Enhance your typing and gaming experience with this tactile and durable mechanical keyboard. Featuring customizable RGB backlighting and responsive mechanical switches, it offers satisfying feedback with every keystroke. Designed with a sturdy frame, it is built to withstand intense sessions."
+  },
+  {
+    "id": 6,
+    "title": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 899,
+    "rating": 4.3,
+    "image": "https://plus.unsplash.com/premium_photo-1671611822374-4719df5c89bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8d2lyZWxlc3MlMjBtb3VzZSUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMDgyfDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Navigate smoothly and precisely with this ergonomically designed wireless optical mouse. Equipped with a stable wireless connection and adjustable DPI settings, it ensures seamless productivity. Its comfortable grip reduces hand fatigue, making it ideal for extended office hours."
+  },
+  {
+    "id": 7,
+    "title": "27 inch Monitor",
+    "category": "Electronics",
+    "price": 18999,
+    "rating": 4.6,
+    "image": "https://plus.unsplash.com/premium_photo-1714618937022-97adf8e67cb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Y29tcHV0ZXIlMjBtb25pdG9yJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMwODR8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Enjoy stunning visuals and vibrant colors on this sleek 27-inch high-definition monitor. Perfect for gaming, streaming, or professional design work, it offers wide viewing angles and a fast response time. Its modern ultra-thin bezel design adds a premium look to any workspace."
+  },
+  {
+    "id": 8,
+    "title": "Webcam 1080p",
+    "category": "Electronics",
+    "price": 2499,
+    "rating": 4.1,
+    "image": "https://plus.unsplash.com/premium_photo-1710961233810-5350d81d4b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8d2ViY2FtJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMwODV8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Deliver crystal-clear video calls and presentations with this premium 1080p high-definition webcam. Featuring an integrated noise-reducing microphone, it ensures you are heard clearly even in noisy rooms. Easy plug-and-play setup makes it ideal for remote work, online classes, and live streaming."
+  },
+  {
+    "id": 9,
+    "title": "Portable SSD 512GB",
+    "category": "Electronics",
+    "price": 4499,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1721333084639-0f64b0583875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8cG9ydGFibGUlMjBzc2QlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzA4Nnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Keep your files safe and accessible with this ultra-fast, high-capacity 512GB portable solid-state drive. Offering rapid read and write speeds, it allows you to transfer large videos, photos, and documents in seconds. Its compact, shock-resistant housing ensures your data is protected on the go."
+  },
+  {
+    "id": 10,
+    "title": "Noise Cancelling Earbuds",
+    "category": "Electronics",
+    "price": 1999,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8ZWFyYnVkcyUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMDg4fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Immerse yourself in pure sound with these compact and lightweight noise-cancelling wireless earbuds. Engineered for a secure fit, they deliver deep bass and clear trebles while blocking out ambient noise. The included charging case provides extra battery life for all-day listening."
+  },
+  {
+    "id": 11,
+    "title": "Smart LED Bulb",
+    "category": "Electronics",
+    "price": 499,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1532007271951-c487760934ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8bGVkJTIwYnVsYiUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMDg5fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Transform your home lighting experience with this energy-efficient smart LED bulb. Connect it to your home Wi-Fi network and control brightness or change colors using a mobile app or voice assistant. Schedule automatic routines to wake up gently or set the perfect mood for movie nights."
+  },
+  {
+    "id": 12,
+    "title": "Mini Projector",
+    "category": "Electronics",
+    "price": 7999,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1709396656117-97a5cc881f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cHJvamVjdG9yJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMwOTF8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Create a home theater experience anywhere with this ultra-portable and lightweight mini projector. Project vibrant images and videos onto any flat wall or screen with support for various multimedia inputs. Equipped with built-in speakers and easy focus control, it is perfect for family movie nights."
+  },
+  {
+    "id": 13,
+    "title": "Laptop Stand",
+    "category": "Electronics",
+    "price": 1299,
+    "rating": 4.4,
+    "image": "https://plus.unsplash.com/premium_photo-1683736986821-e4662912a70d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGFwdG9wJTIwc3RhbmQlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzA5Mnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Improve your posture and workspace ergonomics with this adjustable, sturdy aluminum laptop stand. Elevate your laptop screen to eye level to reduce neck strain and eye fatigue during long work hours. The hollow design allows for optimal airflow, preventing your device from overheating."
+  },
+  {
+    "id": 14,
+    "title": "USB Hub 7 Port",
+    "category": "Electronics",
+    "price": 799,
+    "rating": 4.1,
+    "image": "https://plus.unsplash.com/premium_photo-1675024226990-36dcb7252c62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dXNiJTIwaHViJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMwOTR8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Expand your computer connectivity instantly with this slim and durable 7-port high-speed USB hub. Connect multiple peripherals such as flash drives, keyboards, mice, and external hard drives simultaneously. Featuring built-in surge protection, it keeps your devices safe while transferring data."
+  },
+  {
+    "id": 15,
+    "title": "Ring Light 12 inch",
+    "category": "Electronics",
+    "price": 1599,
+    "rating": 4.3,
+    "image": "https://plus.unsplash.com/premium_photo-1684611913202-479ff05703da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cmluZyUyMGxpZ2h0JTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMwOTV8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Achieve professional-grade lighting for your videos, photos, and video conferences with this 12-inch LED ring light. Featuring adjustable brightness levels and multiple color temperature modes, it eliminates harsh shadows. The flexible tripod stand and phone holder ensure the perfect angle."
+  },
+  {
+    "id": 16,
+    "title": "Power Bank 20000mAh",
+    "category": "Electronics",
+    "price": 1799,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1585995603413-eb35b5f4a50b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8cG93ZXIlMjBiYW5rJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMwOTd8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Never run out of power with this massive 20000mAh capacity portable power bank. Equipped with multiple USB output ports, it allows you to charge smartphones and tablets simultaneously. The smart protection system guards your devices against overcharging and short circuits."
+  },
+  {
+    "id": 17,
+    "title": "Gaming Controller",
+    "category": "Electronics",
+    "price": 2999,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8Z2FtZSUyMGNvbnRyb2xsZXIlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzA5OHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Take control of your gaming experience with this highly responsive and ergonomic wireless gaming controller. Featuring dual vibration motors, precise analog sticks, and customizable buttons, it delivers immersive gameplay. Designed for maximum comfort, it fits perfectly in your hands for long sessions."
+  },
+  {
+    "id": 18,
+    "title": "HDMI Cable 2m",
+    "category": "Electronics",
+    "price": 349,
+    "rating": 3.9,
+    "image": "https://plus.unsplash.com/premium_photo-1675024367645-68d0d6c30254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8aGRtaSUyMGNhYmxlfGVufDB8fHx8MTc4MDQ5MzEwMHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Enjoy seamless audio and video transmission with this premium 2-meter high-speed HDMI cable. It supports 4K resolution, 3D content, and audio return channel for an exceptional home theater experience. Durable gold-plated connectors and double-shielding ensure optimal signal quality."
+  },
+  {
+    "id": 19,
+    "title": "Smart Plug",
+    "category": "Electronics",
+    "price": 699,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1610056494052-6a4f83a8368c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8c21hcnQlMjBwbHVnfGVufDB8fHx8MTc4MDQ5MzEwMXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Make your home appliances smart and controllable from anywhere with this easy-to-use Wi-Fi smart plug. Turn electronics on or off remotely, set custom schedules, and monitor energy usage via a mobile app. Compatible with major voice assistants for convenient hands-free control."
+  },
+  {
+    "id": 20,
+    "title": "Action Camera",
+    "category": "Electronics",
+    "price": 9999,
+    "rating": 4.4,
+    "image": "https://plus.unsplash.com/premium_photo-1710961233810-5350d81d4b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YWN0aW9uJTIwY2FtZXJhfGVufDB8fHx8MTc4MDQ5MzEwMnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Capture your most thrilling adventures in stunning high-definition with this rugged and waterproof action camera. Designed for extreme sports, it features advanced image stabilization and a wide-angle lens. The comprehensive accessory kit allows you to mount it on helmets, bikes, or gear."
+  },
+  {
+    "id": 21,
+    "title": "Men's Casual T-Shirt",
+    "category": "Clothing",
+    "price": 499,
+    "rating": 4.1,
+    "image": "https://plus.unsplash.com/premium_photo-1748997567327-8f79bb016fa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dC1zaGlydCUyMGZsYXQlMjBsYXl8ZW58MHx8fHwxNzgwNDkzMTA0fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Upgrade your everyday wardrobe with this exceptionally soft and breathable men's casual t-shirt. Crafted from premium cotton fabric, it offers a comfortable fit and lasting durability. Perfect for layering or wearing on its own, it pairs easily with jeans, chinos, or shorts."
+  },
+  {
+    "id": 22,
+    "title": "Women's Denim Jacket",
+    "category": "Clothing",
+    "price": 1799,
+    "rating": 4.4,
+    "image": "https://plus.unsplash.com/premium_photo-1727285730879-c1cd2781a765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8ZGVuaW0lMjBqYWNrZXQlMjBmbGF0JTIwbGF5fGVufDB8fHx8MTc4MDQ5MzEwNXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Add a classic touch to your outfits with this stylish and versatile women's denim jacket. Made from durable cotton denim, it features a comfortable fit with functional button closures and pockets. It is the perfect layering piece for cool evenings and casual daytime looks."
+  },
+  {
+    "id": 23,
+    "title": "Running Shoes",
+    "category": "Clothing",
+    "price": 2199,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8cnVubmluZyUyMHNob2VzJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxMDd8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Reach your peak performance with these lightweight and highly supportive running shoes. Engineered with a cushioned midsole and a breathable mesh upper, they provide maximum shock absorption and airflow. The durable rubber outsole offers excellent traction on road and track surfaces."
+  },
+  {
+    "id": 24,
+    "title": "Woolen Hoodie",
+    "category": "Clothing",
+    "price": 999,
+    "rating": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1673125510222-1a51e3a8ccb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8aG9vZGllJTIwZmxhdCUyMGxheXxlbnwwfHx8fDE3ODA0OTMxMDl8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Stay warm and cozy on chilly days with this stylish, premium-quality woolen hoodie. Featuring a soft brushed lining and an adjustable drawstring hood, it offers maximum warmth and comfort. The spacious front pocket is perfect for keeping your hands warm or storing small essentials."
+  },
+  {
+    "id": 25,
+    "title": "Sports Shorts",
+    "category": "Clothing",
+    "price": 349,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1562571151-864223d7d62a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8c2hvcnRzJTIwZmxhdCUyMGxheXxlbnwwfHx8fDE3ODA0OTMxMTF8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Maximize your mobility during workouts with these lightweight, moisture-wicking sports shorts. Crafted from quick-dry fabric, they keep you cool and comfortable even during intense exercise. The elastic waistband with internal drawstring ensures a secure, personalized fit."
+  },
+  {
+    "id": 26,
+    "title": "Formal Shirt",
+    "category": "Clothing",
+    "price": 899,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1602810319428-019690571b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8Zm9ybWFsJTIwc2hpcnQlMjBmbGF0JTIwbGF5fGVufDB8fHx8MTc4MDQ5MzExMnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Look sharp and professional with this classic, wrinkle-resistant men's formal shirt. Tailored from high-quality cotton blend fabric, it offers a clean look and all-day comfort. Ideal for office wear, business meetings, and formal events, it pairs perfectly with trousers."
+  },
+  {
+    "id": 27,
+    "title": "Women's Kurti",
+    "category": "Clothing",
+    "price": 699,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1715859019107-90c16285b149?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8a3VydGklMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzExNHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Embrace elegance and comfort with this beautifully designed traditional women's kurti. Crafted from soft, breathable fabric, it features intricate patterns and a flattering silhouette. Perfect for casual wear, festive occasions, or office wear, it pairs well with leggings or palazzos."
+  },
+  {
+    "id": 28,
+    "title": "Men's Chinos",
+    "category": "Clothing",
+    "price": 1199,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1624378441864-6eda7eac51cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8Y2hpbm9zJTIwcGFudHMlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzExNnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Achieve the perfect smart-casual look with these comfortable and versatile men's chinos pants. Crafted from premium stretch-cotton fabric, they offer a modern fit and freedom of movement. Ideal for transitioning from the office to evening outings, they pair well with shirts and t-shirts."
+  },
+  {
+    "id": 29,
+    "title": "Winter Jacket",
+    "category": "Clothing",
+    "price": 2499,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1750895096969-8b8bd33e97c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8amFja2V0JTIwZmxhdCUyMGxheXxlbnwwfHx8fDE3ODA0OTMxMTd8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Brave the cold in style with this highly insulated and weather-resistant winter jacket. Featuring a windproof outer shell and a warm, padded lining, it keeps you protected against freezing temperatures. Multiple zipped pockets provide secure storage for your keys, phone, and wallet."
+  },
+  {
+    "id": 30,
+    "title": "Casual Sneakers",
+    "category": "Clothing",
+    "price": 1599,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8c25lYWtlcnMlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzExOHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Walk in comfort and style with these modern, versatile casual sneakers. Featuring a clean design, a cushioned footbed, and a durable outsole, they are perfect for everyday wear. Whether running errands or hanging out with friends, these sneakers complement any casual outfit."
+  },
+  {
+    "id": 31,
+    "title": "Women's Leggings",
+    "category": "Clothing",
+    "price": 599,
+    "rating": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1664884884200-769e7f8c2e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8bGVnZ2luZ3MlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzEyMXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Experience ultimate comfort and flexibility with these premium high-waisted women's leggings. Made from soft, stretchy, and opaque fabric, they offer a supportive fit that moves with you. Perfect for yoga, workouts, lounging at home, or layering under casual tunics and dresses."
+  },
+  {
+    "id": 32,
+    "title": "Men's Polo T-Shirt",
+    "category": "Clothing",
+    "price": 749,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1671438118097-479e63198629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8cG9sbyUyMHNoaXJ0JTIwZmxhdCUyMGxheXxlbnwwfHx8fDE3ODA0OTMxMjJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Elevate your casual wardrobe with this timeless and sophisticated men's polo t-shirt. Crafted from breathable cotton pique fabric, it features a classic collar and a comfortable regular fit. Ideal for weekend outings, golf, or casual office days, it offers a smart, polished look."
+  },
+  {
+    "id": 33,
+    "title": "Ethnic Kurta Set",
+    "category": "Clothing",
+    "price": 1299,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1779902333025-066060f9ca2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8a3VydGElMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzEyM3ww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Celebrate special occasions in style with this elegant and complete traditional ethnic kurta set. Featuring a beautifully designed kurta and matching trousers, it is crafted from premium, comfortable fabric. The intricate detailing and rich color make it perfect for weddings and festivals."
+  },
+  {
+    "id": 34,
+    "title": "Denim Jeans",
+    "category": "Clothing",
+    "price": 1499,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1637069585336-827b298fe84a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8amVhbnMlMjBmbGF0JTIwbGF5fGVufDB8fHx8MTc4MDQ5MzEyNXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Find your perfect fit with these durable, classic-style men's denim jeans. Designed with premium denim fabric and reinforced stitching, they offer long-lasting wear and comfort. The classic five-pocket design and versatile wash make them an essential staple for any casual closet."
+  },
+  {
+    "id": 35,
+    "title": "Printed Summer Dress",
+    "category": "Clothing",
+    "price": 999,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1698276988808-e7a2967104dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OXx8c3VtbWVyJTIwZHJlc3MlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzEyNnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Stay cool and fashionable during warm sunny days with this lightweight printed summer dress. Featuring a vibrant floral design and a flowy silhouette, it offers a breezy and comfortable feel. Perfect for beach trips, picnics, or casual daytime outings, it is a must-have wardrobe piece."
+  },
+  {
+    "id": 36,
+    "title": "Leather Belt",
+    "category": "Clothing",
+    "price": 449,
+    "rating": 3.9,
+    "image": "https://plus.unsplash.com/premium_photo-1726769202190-ad2a3f2f360b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8bGVhdGhlciUyMGJlbHQlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzEyOHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Complete your outfit with this classic and durable men's genuine leather belt. Crafted from premium leather, it features a sturdy metallic buckle and a polished, elegant finish. Ideal for both formal trousers and casual jeans, it provides a secure fit and timeless style."
+  },
+  {
+    "id": 37,
+    "title": "Sports Socks Pack of 6",
+    "category": "Clothing",
+    "price": 299,
+    "rating": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1684952850099-396e7183bc6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8c29ja3MlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzEzMHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Keep your feet dry and comfortable during workouts with this pack of 6 pairs of sports socks. Featuring cushioned soles for shock absorption and arch support for a secure fit, they are built for action. The moisture-wicking fabric helps prevent odors and blisters during intense activity."
+  },
+  {
+    "id": 38,
+    "title": "Thermal Inner Wear Set",
+    "category": "Clothing",
+    "price": 799,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1717127412108-ed8a5d68338f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8dGhlcm1hbCUyMHdlYXIlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzEzMXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Stay warm from the inside out with this lightweight and highly insulating thermal inner wear set. Designed to fit snugly under your clothes, it retains body heat while wicking away moisture. The soft, stretchable fabric ensures maximum comfort and freedom of movement in cold weather."
+  },
+  {
+    "id": 39,
+    "title": "Formal Trousers",
+    "category": "Clothing",
+    "price": 1099,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1663011451946-6b8d681b4737?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dHJvdXNlcnMlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzEzM3ww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Present a polished and professional image with these sleek, tailored men's formal trousers. Crafted from premium fabric with a slight stretch, they offer a comfortable slim fit and sharp creases. Perfect for business meetings, office wear, and special events, they pair well with shirts."
+  },
+  {
+    "id": 40,
+    "title": "Waterproof Raincoat",
+    "category": "Clothing",
+    "price": 1899,
+    "rating": 4.3,
+    "image": "https://plus.unsplash.com/premium_photo-1723672940036-6db69ac71fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cmFpbmNvYXQlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzEzNXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Stay completely dry during downpours with this lightweight and fully waterproof hooded raincoat. Featuring sealed seams, an adjustable hood, and a secure zip closure, it keeps wind and rain out. Compact and easy to pack, it is the perfect companion for outdoor activities and commutes."
+  },
+  {
+    "id": 41,
+    "title": "You Don't Know JS",
+    "category": "Books",
+    "price": 499,
+    "rating": 4.9,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Dive deep into the core mechanics of JavaScript with this essential and highly acclaimed programming book. It guides you through scope, closures, objects, and prototypes, helping you write more efficient code. Ideal for developers looking to master the language rather than just use it."
+  },
+  {
+    "id": 42,
+    "title": "Clean Code",
+    "category": "Books",
+    "price": 599,
+    "rating": 4.8,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Learn the art of writing readable, maintainable, and efficient code with this classic software development guide. Packed with practical examples, it teaches you best practices, refactoring, and code craftsmanship. A must-read for any software engineer committed to producing professional code."
+  },
+  {
+    "id": 43,
+    "title": "The Pragmatic Programmer",
+    "category": "Books",
+    "price": 649,
+    "rating": 4.7,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Discover timeless advice and practical techniques to improve your career as a software developer. This book covers topics ranging from personal responsibility to career development and architectural techniques. It is an invaluable guide for becoming a more effective and versatile coder."
+  },
+  {
+    "id": 44,
+    "title": "Atomic Habits",
+    "category": "Books",
+    "price": 399,
+    "rating": 4.6,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Transform your life with this groundbreaking guide to building good habits and breaking bad ones. Learn the simple, science-backed strategies to make small changes that lead to remarkable results. This book offers practical frameworks for self-improvement, productivity, and success."
+  },
+  {
+    "id": 45,
+    "title": "Deep Work",
+    "category": "Books",
+    "price": 349,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Master the art of focused success in a distracted world with this invaluable productivity book. Learn actionable strategies to eliminate distractions, cultivate deep focus, and produce high-quality work. It is an essential guide for anyone looking to excel in today's fast-paced digital economy."
+  },
+  {
+    "id": 46,
+    "title": "The Alchemist",
+    "category": "Books",
+    "price": 299,
+    "rating": 4.7,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Embark on a beautiful journey of self-discovery and inspiration with this worldwide bestselling novel. Follow the story of a young shepherd boy as he travels in search of a worldly treasure, learning to listen to his heart. A timeless fable about following your dreams and destiny."
+  },
+  {
+    "id": 47,
+    "title": "Rich Dad Poor Dad",
+    "category": "Books",
+    "price": 349,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Redefine your perspective on money and investing with this classic personal finance book. It teaches the difference between working for money and having your money work for you, using the author's own life experiences. Learn key financial literacy concepts to build long-term wealth."
+  },
+  {
+    "id": 48,
+    "title": "Think and Grow Rich",
+    "category": "Books",
+    "price": 299,
+    "rating": 4.4,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Unlock the secrets of financial success and personal achievement with this legendary self-help book. Based on interviews with successful historical figures, it outlines the thirteen principles of wealth creation. A timeless guide that inspires readers to harness the power of their minds."
+  },
+  {
+    "id": 49,
+    "title": "JavaScript: The Good Parts",
+    "category": "Books",
+    "price": 549,
+    "rating": 4.6,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Discover the elegant and powerful subset of JavaScript that makes it an excellent programming language. This book highlights the best features of the language while guiding you away from common pitfalls and bad practices. Perfect for developers looking to write clean, robust code."
+  },
+  {
+    "id": 50,
+    "title": "Cracking the Coding Interview",
+    "category": "Books",
+    "price": 799,
+    "rating": 4.8,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Prepare for your next technical interview with this comprehensive guide containing 189 programming questions and solutions. It covers core algorithms, data structures, and system design concepts with detailed explanations. An essential resource for software engineers aiming for top tech companies."
+  },
+  {
+    "id": 51,
+    "title": "Design Patterns",
+    "category": "Books",
+    "price": 699,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Master the reusable solutions to common software design problems with this classic computer science textbook. It outlines twenty-three design patterns with practical code examples, helping you write flexible and maintainable object-oriented software. A foundational book for serious developers."
+  },
+  {
+    "id": 52,
+    "title": "The Psychology of Money",
+    "category": "Books",
+    "price": 399,
+    "rating": 4.7,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Explore the fascinating relationship between human behavior, emotions, and personal financial decisions in this bestseller. Through short, engaging stories, it teaches that doing well with money is less about what you know and more about how you behave. An eye-opening guide to wealth."
+  },
+  {
+    "id": 53,
+    "title": "Zero to One",
+    "category": "Books",
+    "price": 449,
+    "rating": 4.6,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Learn how to build the future and create innovative startups that go from zero to one. This book provides insightful perspectives on technology, business strategy, and the power of creating unique monopolies. A thought-provoking read for entrepreneurs and builders."
+  },
+  {
+    "id": 54,
+    "title": "Ikigai",
+    "category": "Books",
+    "price": 299,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Discover the Japanese secret to a long, happy, and purposeful life with this internationally bestselling guide. Learn how to find your own 'ikigai'—the intersection of your passion, mission, vocation, and profession. A gentle and inspiring book that encourages mindful living."
+  },
+  {
+    "id": 55,
+    "title": "The Lean Startup",
+    "category": "Books",
+    "price": 499,
+    "rating": 4.4,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Revolutionize how new products are built and launched with this modern entrepreneurship guide. It introduces a systematic methodology for creating successful startups through continuous innovation and validated learning. An essential read for founders, product managers, and innovators."
+  },
+  {
+    "id": 56,
+    "title": "Introduction to Algorithms",
+    "category": "Books",
+    "price": 999,
+    "rating": 4.7,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Deepen your understanding of computer science with this comprehensive and widely used textbook on algorithms. It provides a detailed, rigorous analysis of data structures, sorting, graph algorithms, and machine learning models. A vital reference book for students and professionals."
+  },
+  {
+    "id": 57,
+    "title": "Sapiens",
+    "category": "Books",
+    "price": 499,
+    "rating": 4.8,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Explore the fascinating history of humankind from the early stone age to the modern era with this bestseller. Learn how biology, culture, and shared myths have shaped human societies and cognitive development. A captivating read that challenges your perspective on our species."
+  },
+  {
+    "id": 58,
+    "title": "The 5AM Club",
+    "category": "Books",
+    "price": 349,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Maximize your morning routine and unlock peak productivity with this revolutionary self-improvement book. It outlines a formula to wake up early, focus on personal growth, and build positive morning habits. An inspiring guide to upgrading your health, mindset, and daily performance."
+  },
+  {
+    "id": 59,
+    "title": "Start With Why",
+    "category": "Books",
+    "price": 399,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Discover the powerful concept of the Golden Circle and learn how great leaders inspire action by putting 'Why' first. This book explains why some organizations and individuals are more innovative, influential, and profitable than others. A must-read for leaders and builders."
+  },
+  {
+    "id": 60,
+    "title": "Can't Hurt Me",
+    "category": "Books",
+    "price": 449,
+    "rating": 4.6,
+    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Discover the power of mental toughness and self-discipline through this raw and inspiring autobiography. Learn how the author overcame severe adversity to become a Navy SEAL and one of the world's top endurance athletes. It offers actionable strategies to master your mind."
+  },
+  {
+    "id": 61,
+    "title": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 699,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1616118132534-381148898bb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8d2F0ZXIlMjBib3R0bGUlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE0MXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Stay hydrated throughout the day with this premium, eco-friendly stainless steel water bottle. Featuring double-wall vacuum insulation, it keeps your beverages ice-cold or hot for hours. Its leak-proof cap and durable powder-coated finish make it perfect for workouts and travel."
+  },
+  {
+    "id": 62,
+    "title": "Non-Stick Frying Pan",
+    "category": "Home & Kitchen",
+    "price": 899,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1624031000828-dba1b7a3e4ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8ZnJ5aW5nJTIwcGFuJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxNDN8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Prepare delicious meals effortlessly with this high-quality, non-stick aluminum frying pan. It features a scratch-resistant coating that requires minimal oil for healthier cooking and easy cleanup. The heat-resistant handle ensures a comfortable and secure grip while cooking."
+  },
+  {
+    "id": 63,
+    "title": "Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 1299,
+    "rating": 4.4,
+    "image": "https://plus.unsplash.com/premium_photo-1723600987663-33bba551b7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8ZWxlY3RyaWMlMjBrZXR0bGUlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE0Nnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Boil water quickly and safely with this powerful and sleek stainless steel electric kettle. Equipped with an automatic shut-off feature and boil-dry protection, it ensures maximum safety. Its cordless design and 360-degree rotating base make pouring and filling convenient."
+  },
+  {
+    "id": 64,
+    "title": "Air Tight Storage Container Set",
+    "category": "Home & Kitchen",
+    "price": 549,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1648587456176-4969b0124b12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8Zm9vZCUyMGNvbnRhaW5lciUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTQ3fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Keep your kitchen pantry organized and ingredients fresh with this set of airtight storage containers. Featuring secure locking lids with silicone seals, they prevent moisture and pests from entering. The clear, stackable design allows you to easily identify contents and save space."
+  },
+  {
+    "id": 65,
+    "title": "Wooden Cutting Board",
+    "category": "Home & Kitchen",
+    "price": 449,
+    "rating": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1714702846875-ca3a149c0592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Y3V0dGluZyUyMGJvYXJkJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxNDl8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Upgrade your kitchen prep station with this durable and beautiful organic wooden cutting board. Made from sustainable hardwood, it is gentle on knife blades and naturally resistant to bacteria. The built-in side handles make it easy to lift and double as a rustic serving platter."
+  },
+  {
+    "id": 66,
+    "title": "Mixer Grinder 750W",
+    "category": "Home & Kitchen",
+    "price": 3499,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1718043036199-d98bef36af46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YmxlbmRlciUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTUwfDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Experience high-performance blending and grinding with this powerful 750-watt kitchen mixer grinder. It comes with multiple stainless steel jars equipped with sharp blades for wet grinding, dry grinding, and chutneys. Designed with overload protection, it ensures safe and reliable daily use."
+  },
+  {
+    "id": 67,
+    "title": "Pressure Cooker 5L",
+    "category": "Home & Kitchen",
+    "price": 1799,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1612476930934-b7ef769cbae9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8cHJlc3N1cmUlMjBjb29rZXIlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE1Mnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Cook healthy and flavorful meals in a fraction of the time with this durable 5-liter pressure cooker. Made from high-grade aluminum, it ensures even heat distribution and comes with multiple safety valves. Ideal for cooking rice, dal, stews, and tough meats quickly."
+  },
+  {
+    "id": 68,
+    "title": "Induction Cooktop",
+    "category": "Home & Kitchen",
+    "price": 2499,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1600512592336-7e1452b9743c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8aW5kdWN0aW9uJTIwY29va3RvcCUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTUzfDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Enjoy fast, energy-efficient, and flameless cooking with this modern portable induction cooktop. It features user-friendly touch controls, pre-programmed cooking menus, and adjustable temperature settings. The glass-ceramic surface is easy to clean and adds a sleek look to your kitchen."
+  },
+  {
+    "id": 69,
+    "title": "Dinner Set 18 Piece",
+    "category": "Home & Kitchen",
+    "price": 1499,
+    "rating": 4.1,
+    "image": "https://plus.unsplash.com/premium_photo-1714702846361-286897ba112a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cGxhdGVzJTIwYm93bHMlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE1NXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Serve your family and guests in style with this elegant 18-piece ceramic dinnerware set. It includes dinner plates, side plates, and bowls, all featuring a classic and scratch-resistant finish. Perfect for both everyday family meals and special dinner parties."
+  },
+  {
+    "id": 70,
+    "title": "Steel Tiffin Box 3 Layer",
+    "category": "Home & Kitchen",
+    "price": 599,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1729154031163-1c5484fac8dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dGlmZmluJTIwYm94JTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxNTZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Carry your home-cooked meals fresh and warm with this classic 3-layer stainless steel tiffin box. Featuring a secure locking mechanism, it prevents leaks and keeps food items separated in individual containers. Durable, easy to clean, and perfect for school, college, or office lunches."
+  },
+  {
+    "id": 71,
+    "title": "Vegetable Chopper",
+    "category": "Home & Kitchen",
+    "price": 799,
+    "rating": 4,
+    "image": "https://live.staticflickr.com/65535/55240634348_445602876c_b.jpg",
+    "description": "Save time on meal prep with this efficient and easy-to-use manual vegetable chopper. Featuring ultra-sharp stainless steel blades and a pull-cord mechanism, it chops vegetables, herbs, and nuts in seconds. The compact, non-slip design is easy to disassemble and clean."
+  },
+  {
+    "id": 72,
+    "title": "Coffee Maker",
+    "category": "Home & Kitchen",
+    "price": 2999,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1565452344518-47faca79dc69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8Y29mZmVlJTIwbWFrZXIlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE1OXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Start your mornings with the rich aroma of freshly brewed coffee using this compact coffee maker. It features a reusable mesh filter, a drip-stop mechanism, and a keep-warm plate to maintain the perfect temperature. Easy to operate, it brews multiple cups of rich, flavorful coffee quickly."
+  },
+  {
+    "id": 73,
+    "title": "Non-Stick Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 2199,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1624031000828-dba1b7a3e4ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8cG90cyUyMHBhbnMlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE2MHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Equip your kitchen with this comprehensive and high-quality non-stick cookware set. It includes a frying pan, a kadhai with a glass lid, and a spatula, all featuring a durable non-stick surface. Designed for even heating, it helps you prepare healthier meals with less oil."
+  },
+  {
+    "id": 74,
+    "title": "Sandwich Maker",
+    "category": "Home & Kitchen",
+    "price": 999,
+    "rating": 4.1,
+    "image": "https://live.staticflickr.com/65535/55311825864_874748dd2a_b.jpg",
+    "description": "Prepare crispy, golden-brown toasted sandwiches in minutes with this compact electric sandwich maker. Featuring non-stick grill plates, it ensures easy food release and hassle-free cleaning. The indicator lights tell you when the unit is hot and ready for cooking."
+  },
+  {
+    "id": 75,
+    "title": "Air Fryer 4L",
+    "category": "Home & Kitchen",
+    "price": 4999,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1621955293419-2655068eee84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8YWlyJTIwZnJ5ZXIlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE2M3ww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Enjoy your favorite fried foods guilt-free with this modern 4-liter rapid-air technology air fryer. It circulates hot air to cook food with up to eighty-five percent less oil than traditional deep frying. Easy-to-use temperature and timer controls allow you to bake, grill, roast, and fry."
+  },
+  {
+    "id": 76,
+    "title": "Curtains Set of 2",
+    "category": "Home & Kitchen",
+    "price": 899,
+    "rating": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1668073437337-5734dc7ef812?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Y3VydGFpbnMlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE2NHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Enhance your home decor and control natural light with this beautiful set of two polyester curtains. Featuring a modern pattern and durable eyelets, they slide smoothly on any standard curtain rod. They provide privacy while adding a touch of elegance to your living room or bedroom."
+  },
+  {
+    "id": 77,
+    "title": "Bedsheet King Size",
+    "category": "Home & Kitchen",
+    "price": 749,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1673942750147-87233d9f29d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Zm9sZGVkJTIwYmVkc2hlZXR8ZW58MHx8fHwxNzgwNDkzMTY1fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Transform your bedroom into a cozy retreat with this premium king-size cotton bedsheet. Crafted from soft, breathable, and fade-resistant fabric, it includes two matching pillowcases. The elegant patterns and smooth texture ensure a comfortable and restful night's sleep."
+  },
+  {
+    "id": 78,
+    "title": "Wall Clock",
+    "category": "Home & Kitchen",
+    "price": 499,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8d2FsbCUyMGNsb2NrJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxNjd8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Keep track of time while adding a sophisticated decorative touch to your wall with this classic wall clock. Featuring a silent, non-ticking sweep movement, it ensures a quiet environment for sleep or work. The clear display and elegant frame make it a perfect fit for any room in your home."
+  },
+  {
+    "id": 79,
+    "title": "Bathroom Organizer Set",
+    "category": "Home & Kitchen",
+    "price": 649,
+    "rating": 4.1,
+    "image": "https://plus.unsplash.com/premium_photo-1678217547366-3156d075c867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YmF0aHJvb20lMjBvcmdhbml6ZXIlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE2OXww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "De-clutter your bathroom and organize your daily essentials with this multi-piece bathroom organizer set. It includes durable shelves and holders designed to withstand humid bathroom environments. Easily store toothbrushes, soaps, shampoos, and towels in a neat, accessible way."
+  },
+  {
+    "id": 80,
+    "title": "Scented Candles Set of 3",
+    "category": "Home & Kitchen",
+    "price": 399,
+    "rating": 4.3,
+    "image": "https://plus.unsplash.com/premium_photo-1669824023993-273720598b14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8c2NlbnRlZCUyMGNhbmRsZSUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTcwfDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Create a relaxing and fragrant atmosphere in your home with this set of three premium scented candles. Infused with calming natural essential oils, they release a soothing aroma that helps relieve stress. Crafted from natural soy wax, they offer a clean and long-lasting burn."
+  },
+  {
+    "id": 81,
+    "title": "Yoga Mat",
+    "category": "Sports",
+    "price": 799,
+    "rating": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1674675646706-8468e673b74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8eW9nYSUyMG1hdCUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTcxfDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Enhance your workout and yoga practice with this premium, non-slip, and cushioned yoga mat. Made from eco-friendly, high-density material, it provides excellent joint support and traction on any surface. Lightweight and easy to roll up, it comes with a convenient carrying strap for travel."
+  },
+  {
+    "id": 82,
+    "title": "Resistance Bands Set",
+    "category": "Sports",
+    "price": 599,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1584827386916-b5351d3ba34b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8cmVzaXN0YW5jZSUyMGJhbmRzJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxNzN8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Build strength and improve flexibility anywhere with this versatile set of fitness resistance bands. Featuring different resistance levels, they are perfect for home workouts, physical therapy, and muscle toning. Made from durable natural latex, they are built to stretch and last."
+  },
+  {
+    "id": 83,
+    "title": "Adjustable Dumbbells",
+    "category": "Sports",
+    "price": 3999,
+    "rating": 4.6,
+    "image": "https://plus.unsplash.com/premium_photo-1671028546491-f70b21a32cc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8ZHVtYmJlbGxzJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxNzR8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Optimize your home gym setup with these space-saving and highly durable adjustable dumbbells. Easily change the weight settings to customize your workout for different muscle groups. The ergonomic handles provide a secure and comfortable grip during intense lifting sessions."
+  },
+  {
+    "id": 84,
+    "title": "Skipping Rope",
+    "category": "Sports",
+    "price": 249,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1516876345887-6dd74f80787a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8c2tpcHBpbmclMjByb3BlJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxNzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Burn calories and improve cardiovascular health with this high-speed, adjustable skipping rope. Featuring smooth ball bearings for tangle-free rotation and lightweight handles, it is built for speed. The durable steel cable is coated with protective PVC, making it suitable for all surfaces."
+  },
+  {
+    "id": 85,
+    "title": "Badminton Racket Set",
+    "category": "Sports",
+    "price": 1199,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1670002272491-3d3f8f5c00a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8NXx8YmFkbWludG9uJTIwcmFja2V0JTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxNzd8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Enjoy fun-filled badminton matches with friends and family using this lightweight badminton racket set. It includes two durable aluminum rackets with tight gutting and premium grips, along with shuttlecocks. The included carrying bag makes it easy to transport to the park or court."
+  },
+  {
+    "id": 86,
+    "title": "Cricket Bat",
+    "category": "Sports",
+    "price": 1799,
+    "rating": 4.4,
+    "image": "https://plus.unsplash.com/premium_photo-1679917489673-b952cee5857a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Y3JpY2tldCUyMGJhdHxlbnwwfHx8fDE3ODA0OTMxNzh8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Score runs like a pro with this premium-grade, lightweight popular willow cricket bat. Designed with a sturdy cane handle for shock absorption, it offers excellent control and power. Perfect for recreational matches in the park, street, or local tournaments with tennis balls."
+  },
+  {
+    "id": 87,
+    "title": "Football Size 5",
+    "category": "Sports",
+    "price": 899,
+    "rating": 4.3,
+    "image": "https://plus.unsplash.com/premium_photo-1661868926397-0083f0503c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8c29jY2VyJTIwYmFsbCUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTgwfDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Experience excellent control and flight accuracy with this premium-quality, hand-stitched size 5 football. Made from durable synthetic leather, it features a high-retention butyl bladder for consistent air pressure. Ideal for training sessions, matches, and recreational play."
+  },
+  {
+    "id": 88,
+    "title": "Swimming Goggles",
+    "category": "Sports",
+    "price": 499,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1467044705596-744699fa8931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8c3dpbW1pbmclMjBnb2dnbGVzJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxODF8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "See clearly underwater and protect your eyes with these anti-fog, UV-protective swimming goggles. Featuring a soft silicone gasket, they provide a comfortable, leak-proof seal around your eyes. The adjustable head strap ensures a secure and custom fit for all swimmers."
+  },
+  {
+    "id": 89,
+    "title": "Gym Gloves",
+    "category": "Sports",
+    "price": 399,
+    "rating": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1672774661816-a547f889e167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Z3ltJTIwZ2xvdmVzJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxODJ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Protect your hands from calluses and improve your grip with these breathable, padded gym gloves. Featuring half-finger design and an adjustable wrist strap, they offer excellent support and comfort. Ideal for weightlifting, pull-ups, cycling, and general fitness training."
+  },
+  {
+    "id": 90,
+    "title": "Knee Support Brace",
+    "category": "Sports",
+    "price": 549,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1661387460147-ca10f1be1a2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTN8fGtuZWUlMjBicmFjZSUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTg0fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Protect your joints and relieve pain during sports or recovery with this adjustable knee support brace. Made from breathable, moisture-wicking neoprene, it offers targeted compression and stability. The non-slip design ensures it stays securely in place during active movement."
+  },
+  {
+    "id": 91,
+    "title": "Pull Up Bar",
+    "category": "Sports",
+    "price": 1299,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1634133830183-50a92cb95c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8cHVsbCUyMHVwJTIwYmFyfGVufDB8fHx8MTc4MDQ5MzE4Nnww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Build upper body strength at home with this heavy-duty, door-frame mountable steel pull-up bar. Featuring comfortable foam grips to prevent hand fatigue, it adjusts easily to fit standard doorways. Perfect for pull-ups, chin-ups, hanging leg raises, and core exercises."
+  },
+  {
+    "id": 92,
+    "title": "Protein Shaker Bottle",
+    "category": "Sports",
+    "price": 349,
+    "rating": 4.1,
+    "image": "https://plus.unsplash.com/premium_photo-1727346923052-94d84528992b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8c2hha2VyJTIwYm90dGxlJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxODd8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Mix your protein shakes and pre-workout drinks smoothly with this leak-proof shaker bottle. It features a built-in wire whisk ball that breaks up clumps for a perfectly blended drink. Equipped with a secure loop top and measurement markings, it is perfect for the gym."
+  },
+  {
+    "id": 93,
+    "title": "Ab Roller Wheel",
+    "category": "Sports",
+    "price": 699,
+    "rating": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1663133977521-61475a42613b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8YWIlMjByb2xsZXIlMjBwcm9kdWN0fGVufDB8fHx8MTc4MDQ5MzE4OHww&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Tone your core and strengthen your abdominal muscles with this ultra-stable, wide-wheel ab roller. Featuring comfortable foam-grip handles and a non-slip rubber tread, it ensures smooth and controlled movements. Includes a soft foam knee pad for added comfort during your workouts."
+  },
+  {
+    "id": 94,
+    "title": "Sports Water Bottle 1L",
+    "category": "Sports",
+    "price": 449,
+    "rating": 4,
+    "image": "https://plus.unsplash.com/premium_photo-1723651262792-9220b2fae964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8c3BvcnRzJTIwYm90dGxlJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxOTB8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Stay hydrated during intense training sessions with this durable, BPA-free 1-liter sports water bottle. It features a leak-proof flip-top lid and a fast-flowing spout for quick sips on the go. The ergonomic design and carrying loop make it convenient to hold and transport."
+  },
+  {
+    "id": 95,
+    "title": "Foam Roller",
+    "category": "Sports",
+    "price": 799,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1653617748437-895c016e88b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8Zm9hbSUyMHJvbGxlciUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTkxfDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Relieve muscle tension and improve recovery time with this high-density EVA foam roller. Featuring a textured grid surface, it targets tight knots and deep tissue for effective self-myofascial release. Lightweight and durable, it is perfect for post-workout stretching and therapy."
+  },
+  {
+    "id": 96,
+    "title": "Tennis Racket",
+    "category": "Sports",
+    "price": 1599,
+    "rating": 4.3,
+    "image": "https://plus.unsplash.com/premium_photo-1666913667082-c1fecc45275d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dGVubmlzJTIwcmFja2V0JTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxOTN8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Improve your game and swing control with this lightweight, high-tension tennis racket. Crafted from a durable aluminum alloy frame, it offers a large sweet spot for more forgiving shots. Comes with a comfortable grip and a protective head cover for easy carrying."
+  },
+  {
+    "id": 97,
+    "title": "Cycling Helmet",
+    "category": "Sports",
+    "price": 1299,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1591511275477-88f079d88154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8YmljeWNsZSUyMGhlbG1ldCUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTk0fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Prioritize your safety on the road with this lightweight and highly impact-resistant cycling helmet. Featuring multiple ventilation holes, it keeps your head cool during long rides. The adjustable dial fit system and chin strap ensure a snug, comfortable, and secure fit."
+  },
+  {
+    "id": 98,
+    "title": "Treadmill Manual",
+    "category": "Sports",
+    "price": 8999,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1578763363228-6e8428de69b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Nnx8dHJlYWRtaWxsJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxOTZ8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Get a full-body cardiovascular workout at home with this compact and space-saving manual treadmill. Running on user power, it allows you to control the speed and intensity of your walks or runs. The folding design with transport wheels makes it easy to store when not in use."
+  },
+  {
+    "id": 99,
+    "title": "Boxing Gloves",
+    "category": "Sports",
+    "price": 1499,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8Ym94aW5nJTIwZ2xvdmVzJTIwcHJvZHVjdHxlbnwwfHx8fDE3ODA0OTMxOTd8MA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Train harder and protect your wrists and knuckles with these premium synthetic leather boxing gloves. Featuring multi-layer foam padding for shock absorption and a secure hook-and-loop strap, they offer ultimate support. Perfect for punch bag workouts, sparring, and boxercise classes."
+  },
+  {
+    "id": 100,
+    "title": "Basketball",
+    "category": "Sports",
+    "price": 999,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8YmFza2V0YmFsbCUyMHByb2R1Y3R8ZW58MHx8fHwxNzgwNDkzMTk5fDA&ixlib=rb-4.1.0&q=80&w=600",
+    "description": "Experience superior grip and bounce control with this official size 7 indoor/outdoor basketball. Crafted from durable composite leather with deep channels, it offers excellent handling and durability. Perfect for shooting hoops in the driveway or playing competitive court games."
+  }
+]
