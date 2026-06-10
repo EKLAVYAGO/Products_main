@@ -360,185 +360,186 @@
     "description": "Stay completely dry during downpours with this lightweight and fully waterproof hooded raincoat. Featuring sealed seams, an adjustable hood, and a secure zip closure, it keeps wind and rain out. Compact and easy to pack, it is the perfect companion for outdoor activities and commutes."
   },
   {
-    "id": 41,
-    "title": "You Don't Know JS",
-    "category": "Books",
-    "price": 499,
-    "rating": 4.9,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Dive deep into the core mechanics of JavaScript with this essential and highly acclaimed programming book. It guides you through scope, closures, objects, and prototypes, helping you write more efficient code. Ideal for developers looking to master the language rather than just use it."
-  },
-  {
-    "id": 42,
-    "title": "Clean Code",
-    "category": "Books",
-    "price": 599,
-    "rating": 4.8,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Learn the art of writing readable, maintainable, and efficient code with this classic software development guide. Packed with practical examples, it teaches you best practices, refactoring, and code craftsmanship. A must-read for any software engineer committed to producing professional code."
-  },
-  {
-    "id": 43,
-    "title": "The Pragmatic Programmer",
-    "category": "Books",
-    "price": 649,
-    "rating": 4.7,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Discover timeless advice and practical techniques to improve your career as a software developer. This book covers topics ranging from personal responsibility to career development and architectural techniques. It is an invaluable guide for becoming a more effective and versatile coder."
-  },
-  {
-    "id": 44,
-    "title": "Atomic Habits",
-    "category": "Books",
-    "price": 399,
-    "rating": 4.6,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Transform your life with this groundbreaking guide to building good habits and breaking bad ones. Learn the simple, science-backed strategies to make small changes that lead to remarkable results. This book offers practical frameworks for self-improvement, productivity, and success."
-  },
-  {
-    "id": 45,
-    "title": "Deep Work",
-    "category": "Books",
-    "price": 349,
-    "rating": 4.5,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Master the art of focused success in a distracted world with this invaluable productivity book. Learn actionable strategies to eliminate distractions, cultivate deep focus, and produce high-quality work. It is an essential guide for anyone looking to excel in today's fast-paced digital economy."
-  },
-  {
-    "id": 46,
-    "title": "The Alchemist",
-    "category": "Books",
-    "price": 299,
-    "rating": 4.7,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Embark on a beautiful journey of self-discovery and inspiration with this worldwide bestselling novel. Follow the story of a young shepherd boy as he travels in search of a worldly treasure, learning to listen to his heart. A timeless fable about following your dreams and destiny."
-  },
-  {
-    "id": 47,
-    "title": "Rich Dad Poor Dad",
-    "category": "Books",
-    "price": 349,
-    "rating": 4.5,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Redefine your perspective on money and investing with this classic personal finance book. It teaches the difference between working for money and having your money work for you, using the author's own life experiences. Learn key financial literacy concepts to build long-term wealth."
-  },
-  {
-    "id": 48,
-    "title": "Think and Grow Rich",
-    "category": "Books",
-    "price": 299,
-    "rating": 4.4,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Unlock the secrets of financial success and personal achievement with this legendary self-help book. Based on interviews with successful historical figures, it outlines the thirteen principles of wealth creation. A timeless guide that inspires readers to harness the power of their minds."
-  },
-  {
-    "id": 49,
-    "title": "JavaScript: The Good Parts",
-    "category": "Books",
-    "price": 549,
-    "rating": 4.6,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Discover the elegant and powerful subset of JavaScript that makes it an excellent programming language. This book highlights the best features of the language while guiding you away from common pitfalls and bad practices. Perfect for developers looking to write clean, robust code."
-  },
-  {
-    "id": 50,
-    "title": "Cracking the Coding Interview",
-    "category": "Books",
-    "price": 799,
-    "rating": 4.8,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Prepare for your next technical interview with this comprehensive guide containing 189 programming questions and solutions. It covers core algorithms, data structures, and system design concepts with detailed explanations. An essential resource for software engineers aiming for top tech companies."
-  },
-  {
-    "id": 51,
-    "title": "Design Patterns",
-    "category": "Books",
-    "price": 699,
-    "rating": 4.5,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Master the reusable solutions to common software design problems with this classic computer science textbook. It outlines twenty-three design patterns with practical code examples, helping you write flexible and maintainable object-oriented software. A foundational book for serious developers."
-  },
-  {
-    "id": 52,
-    "title": "The Psychology of Money",
-    "category": "Books",
-    "price": 399,
-    "rating": 4.7,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Explore the fascinating relationship between human behavior, emotions, and personal financial decisions in this bestseller. Through short, engaging stories, it teaches that doing well with money is less about what you know and more about how you behave. An eye-opening guide to wealth."
-  },
-  {
-    "id": 53,
-    "title": "Zero to One",
-    "category": "Books",
-    "price": 449,
-    "rating": 4.6,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Learn how to build the future and create innovative startups that go from zero to one. This book provides insightful perspectives on technology, business strategy, and the power of creating unique monopolies. A thought-provoking read for entrepreneurs and builders."
-  },
-  {
-    "id": 54,
-    "title": "Ikigai",
-    "category": "Books",
-    "price": 299,
-    "rating": 4.5,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Discover the Japanese secret to a long, happy, and purposeful life with this internationally bestselling guide. Learn how to find your own 'ikigai'—the intersection of your passion, mission, vocation, and profession. A gentle and inspiring book that encourages mindful living."
-  },
-  {
-    "id": 55,
-    "title": "The Lean Startup",
-    "category": "Books",
-    "price": 499,
-    "rating": 4.4,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Revolutionize how new products are built and launched with this modern entrepreneurship guide. It introduces a systematic methodology for creating successful startups through continuous innovation and validated learning. An essential read for founders, product managers, and innovators."
-  },
-  {
-    "id": 56,
-    "title": "Introduction to Algorithms",
-    "category": "Books",
-    "price": 999,
-    "rating": 4.7,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Deepen your understanding of computer science with this comprehensive and widely used textbook on algorithms. It provides a detailed, rigorous analysis of data structures, sorting, graph algorithms, and machine learning models. A vital reference book for students and professionals."
-  },
-  {
-    "id": 57,
-    "title": "Sapiens",
-    "category": "Books",
-    "price": 499,
-    "rating": 4.8,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Explore the fascinating history of humankind from the early stone age to the modern era with this bestseller. Learn how biology, culture, and shared myths have shaped human societies and cognitive development. A captivating read that challenges your perspective on our species."
-  },
-  {
-    "id": 58,
-    "title": "The 5AM Club",
-    "category": "Books",
-    "price": 349,
-    "rating": 4.2,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Maximize your morning routine and unlock peak productivity with this revolutionary self-improvement book. It outlines a formula to wake up early, focus on personal growth, and build positive morning habits. An inspiring guide to upgrading your health, mindset, and daily performance."
-  },
-  {
-    "id": 59,
-    "title": "Start With Why",
-    "category": "Books",
-    "price": 399,
-    "rating": 4.5,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Discover the powerful concept of the Golden Circle and learn how great leaders inspire action by putting 'Why' first. This book explains why some organizations and individuals are more innovative, influential, and profitable than others. A must-read for leaders and builders."
-  },
-  {
-    "id": 60,
-    "title": "Can't Hurt Me",
-    "category": "Books",
-    "price": 449,
-    "rating": 4.6,
-    "image": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8Ym9va3xlbnwwfHx8fDE3ODA0OTMxMzZ8MA&ixlib=rb-4.1.0&q=80&w=600",
-    "description": "Discover the power of mental toughness and self-discipline through this raw and inspiring autobiography. Learn how the author overcame severe adversity to become a Navy SEAL and one of the world's top endurance athletes. It offers actionable strategies to master your mind."
-  },
+  "id": 41,
+  "title": "You Don't Know JS",
+  "category": "Books",
+  "price": 499,
+  "rating": 4.9,
+  "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600",
+  "description": "Dive deep into the core mechanics of JavaScript with this essential and highly acclaimed programming book. It guides you through scope, closures, objects, and prototypes, helping you write more efficient code. Ideal for developers looking to master the language rather than just use it."
+},
+{
+  "id": 42,
+  "title": "Clean Code",
+  "category": "Books",
+  "price": 599,
+  "rating": 4.8,
+  "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600",
+  "description": "Learn the art of writing readable, maintainable, and efficient code with this classic software development guide. Packed with practical examples, it teaches you best practices, refactoring, and code craftsmanship. A must-read for any software engineer committed to producing professional code."
+},
+{
+  "id": 43,
+  "title": "The Pragmatic Programmer",
+  "category": "Books",
+  "price": 649,
+  "rating": 4.7,
+  "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600",
+  "description": "Discover timeless advice and practical techniques to improve your career as a software developer. This book covers topics ranging from personal responsibility to career development and architectural techniques. It is an invaluable guide for becoming a more effective and versatile coder."
+},
+{
+  "id": 44,
+  "title": "Atomic Habits",
+  "category": "Books",
+  "price": 399,
+  "rating": 4.6,
+  "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=600",
+  "description": "Transform your life with this groundbreaking guide to building good habits and breaking bad ones. Learn the simple, science-backed strategies to make small changes that lead to remarkable results. This book offers practical frameworks for self-improvement, productivity, and success."
+},
+{
+  "id": 45,
+  "title": "Deep Work",
+  "category": "Books",
+  "price": 349,
+  "rating": 4.5,
+  "image": "https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=600",
+  "description": "Master the art of focused success in a distracted world with this invaluable productivity book. Learn actionable strategies to eliminate distractions, cultivate deep focus, and produce high-quality work. It is an essential guide for anyone looking to excel in today's fast-paced digital economy."
+},
+{
+  "id": 46,
+  "title": "The Alchemist",
+  "category": "Books",
+  "price": 299,
+  "rating": 4.7,
+  "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=600",
+  "description": "Embark on a beautiful journey of self-discovery and inspiration with this worldwide bestselling novel. Follow the story of a young shepherd boy as he travels in search of a worldly treasure, learning to listen to his heart. A timeless fable about following your dreams and destiny."
+},
+{
+  "id": 47,
+  "title": "Rich Dad Poor Dad",
+  "category": "Books",
+  "price": 349,
+  "rating": 4.5,
+  "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600",
+  "description": "Redefine your perspective on money and investing with this classic personal finance book. It teaches the difference between working for money and having your money work for you, using the author's own life experiences. Learn key financial literacy concepts to build long-term wealth."
+},
+{
+  "id": 48,
+  "title": "Think and Grow Rich",
+  "category": "Books",
+  "price": 299,
+  "rating": 4.4,
+  "image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?w=600",
+  "description": "Unlock the secrets of financial success and personal achievement with this legendary self-help book. Based on interviews with successful historical figures, it outlines the thirteen principles of wealth creation. A timeless guide that inspires readers to harness the power of their minds."
+},
+{
+  "id": 49,
+  "title": "JavaScript: The Good Parts",
+  "category": "Books",
+  "price": 549,
+  "rating": 4.6,
+  "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600",
+  "description": "Discover the elegant and powerful subset of JavaScript that makes it an excellent programming language. This book highlights the best features of the language while guiding you away from common pitfalls and bad practices. Perfect for developers looking to write clean, robust code."
+},
+{
+  "id": 50,
+  "title": "Cracking the Coding Interview",
+  "category": "Books",
+  "price": 799,
+  "rating": 4.8,
+  "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=600",
+  "description": "Prepare for your next technical interview with this comprehensive guide containing 189 programming questions and solutions. It covers core algorithms, data structures, and system design concepts with detailed explanations. An essential resource for software engineers aiming for top tech companies."
+},
+{
+  "id": 51,
+  "title": "Design Patterns",
+  "category": "Books",
+  "price": 699,
+  "rating": 4.5,
+  "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=600",
+  "description": "Master the reusable solutions to common software design problems with this classic computer science textbook. It outlines twenty-three design patterns with practical code examples, helping you write flexible and maintainable object-oriented software. A foundational book for serious developers."
+},
+{
+  "id": 52,
+  "title": "The Psychology of Money",
+  "category": "Books",
+  "price": 399,
+  "rating": 4.7,
+  "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&v=2",
+  "description": "Explore the fascinating relationship between human behavior, emotions, and personal financial decisions in this bestseller. Through short, engaging stories, it teaches that doing well with money is less about what you know and more about how you behave. An eye-opening guide to wealth."
+},
+{
+  "id": 53,
+  "title": "Zero to One",
+  "category": "Books",
+  "price": 449,
+  "rating": 4.6,
+  "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=600",
+  "description": "Learn how to build the future and create innovative startups that go from zero to one. This book provides insightful perspectives on technology, business strategy, and the power of creating unique monopolies. A thought-provoking read for entrepreneurs and builders."
+},
+{
+  "id": 54,
+  "title": "Ikigai",
+  "category": "Books",
+  "price": 299,
+  "rating": 4.5,
+  "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=600&v=3",
+  "description": "Discover the Japanese secret to a long, happy, and purposeful life with this internationally bestselling guide. Learn how to find your own 'ikigai'—the intersection of your passion, mission, vocation, and profession. A gentle and inspiring book that encourages mindful living."
+},
+{
+  "id": 55,
+  "title": "The Lean Startup",
+  "category": "Books",
+  "price": 499,
+  "rating": 4.4,
+  "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600",
+  "description": "Revolutionize how new products are built and launched with this modern entrepreneurship guide. It introduces a systematic methodology for creating successful startups through continuous innovation and validated learning. An essential read for founders, product managers, and innovators."
+},
+{
+  "id": 56,
+  "title": "Introduction to Algorithms",
+  "category": "Books",
+  "price": 999,
+  "rating": 4.7,
+  "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=600",
+  "description": "Deepen your understanding of computer science with this comprehensive and widely used textbook on algorithms. It provides a detailed, rigorous analysis of data structures, sorting, graph algorithms, and machine learning models. A vital reference book for students and professionals."
+},
+{
+  "id": 57,
+  "title": "Sapiens",
+  "category": "Books",
+  "price": 499,
+  "rating": 4.8,
+  "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=600",
+  "description": "Explore the fascinating history of humankind from the early stone age to the modern era with this bestseller. Learn how biology, culture, and shared myths have shaped human societies and cognitive development. A captivating read that challenges your perspective on our species."
+},
+{
+  "id": 58,
+  "title": "The 5AM Club",
+  "category": "Books",
+  "price": 349,
+  "rating": 4.2,
+  "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600",
+  "description": "Maximize your morning routine and unlock peak productivity with this revolutionary self-improvement book. It outlines a formula to wake up early, focus on personal growth, and build positive morning habits. An inspiring guide to upgrading your health, mindset, and daily performance."
+},
+{
+  "id": 59,
+  "title": "Start With Why",
+  "category": "Books",
+  "price": 399,
+  "rating": 4.5,
+  "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=600",
+  "description": "Discover the powerful concept of the Golden Circle and learn how great leaders inspire action by putting 'Why' first. This book explains why some organizations and individuals are more innovative, influential, and profitable than others. A must-read for leaders and builders."
+},
+{
+  "id": 60,
+  "title": "Can't Hurt Me",
+  "category": "Books",
+  "price": 449,
+  "rating": 4.6,
+  "image": "https://images.unsplash.com/photo-1511108690759-009324a90311?w=600",
+  "description": "Discover the power of mental toughness and self-discipline through this raw and inspiring autobiography. Learn how the author overcame severe adversity to become a Navy SEAL and one of the world's top endurance athletes. It offers actionable strategies to master your mind."
+},
+
   {
     "id": 61,
     "title": "Stainless Steel Water Bottle",
